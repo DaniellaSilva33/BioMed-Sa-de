@@ -3,3 +3,5 @@ O Projeto de estudo consiste em um aplicativo de gerenciamento de consultas e ex
 
 
 https://biomedsaude.wordpress.com/
+
+Integrantes> Daniela Silva, Ludmila Cristina e Shrilene
